@@ -1,4 +1,4 @@
- A* path finding algorithm implementation in a simple game
+ A* path finding algorithm implementation with a simple game
  
  Rules of the game:
  
