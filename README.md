@@ -1,9 +1,9 @@
  A* path finding algorithm implementation in a simple game
  
- Rules of the game
+ Rules of the game:
  
- character you can choose to play:Luke Skywalker, Master Yoda
- npc's: Dath Vader, Kylo Ren, StormTroopers
+ Character you can choose to play: Luke Skywalker, Master Yoda
+ Npc's: Dath Vader, Kylo Ren, StormTroopers
 
 Dath Vader can breach the walls and can go anywhere he wants within the 2d maze,
 Kylo ren can always move two step at a time
